@@ -3,7 +3,7 @@ A Dyslexia support website that helps or acts as a platform for dyslexic kids to
 Creators:
     -FRED GICHOHI
     -INNOCENT MAMBO
-    -SAMUEL NJPROGE
+    -SAMUEL NJOROGE
     -KEVIN KINYUA
     -FRANCIS NDUNG'U
     -CLINTON ONYANGO
